@@ -1,0 +1,108 @@
+{
+  "Movies": [
+    {
+      "id": 1,
+      "title": "Tài Phiệt và Cảnh Sát (2024)",
+      "image": "https://vutruphim.tv/uploads/video_thumb/21386.jpg",
+      "performer": [
+        " Ahn Bo-hyun",
+        " Park Ji Hyun ",
+        "Kang Sang-jun",
+        "Kim Shin-bi",
+        "Lee Na-eun"
+      ],
+      "Genre": ["Tội phạm và Cảnh Sát", "Tài Phiệt", "Hành Động", "Phim Bộ"],
+      "Content": "Bộ phim xoay quanh anh chàng Jin Yi Soo, một người được coi là tầng lớp thìa vàng của xã hội Hàn Quốc hiện nay. Cuộc sống của anh vốn đang bình yên nhưng bỗng dưng vướng vào một vụ án, từ đó đã thay đổi con người anh ta và đưa đẩy sang một lối rẽ khác. Yi Soo đã tham gia một đội điều tra tợi sở cảnh sát và chuyên săn bắt cướp. anh ta sử dụng các mối quan hệ và sự giàu có để làm lợi thế cho mình và tuân theo sự chỉ huy của một vị thám tử tận tâm tên là Lee Kang Hyun.",
+      "views": 0
+    },
+    {
+      "id": 2,
+      "title": "Con Rối Quỷ Ám (2024)",
+      "image": "https://vutruphim.tv/uploads/video_thumb/24350.jpg",
+      "performer": [
+        "Aisling Franciosi",
+        "Stella Gonet",
+        "Tom York",
+        "Therica WilsonRead",
+        "Bridgitta Roy"
+      ],
+      "Genre": ["Kinh Dị", "Phim Ma", "Hành Động", "Phim Lẻ"],
+      "Content": "Con Rối Quỷ Ám Stopmotion 2023 là một phim kinh dị tâm lý của Anh, do Robert Morgan đạo diễn, với sự tham gia của Aisling Franciosi trong vai Ella Blake, một nhà làm phim hoạt hình stop-motion. Phim khám phá sự điên loạn của Ella khi cô làm việc trên dự án phim, kết hợp giữa hành động trực tiếp và hoạt hình. Nội dung phim đề cập đến các chủ đề về sự sáng tạo, ám ảnh và ranh giới mong manh giữa thực tại và ảo giác. Phim nhận được phản hồi tích cực từ giới phê bình về cách kể chuyện và hiệu ứng hình ảnh, đồng thời giành được giải thưởng tại Fantastic Fest và Sitges Film Festival.",
+      "views": 0
+    },
+    {
+      "id": 3,
+      "title": "Thư Tình Già (1981)",
+      "image": "https://vutruphim.tv/uploads/video_thumb/23607.jpg",
+      "performer": ["Katsuo Nakamura", " Keiko Takahashi", "Kaga Mariko"],
+      "Genre": ["Phim Tình Cảm", "Phim Lẻ"],
+      "Content": "Yuko is in love with an old poet who happens to be also a married man. She waits patiently for him and only him, yet she is constantly being lust by others.",
+      "views": 0
+    }
+  ],
+  "episode": [
+    {
+      "id": 1,
+      "movie_ID": 1,
+      "name": "Tập 1"
+    },
+    {
+      "id": 2,
+      "movie_ID": 1,
+      "name": "Tập 2"
+    },
+    {
+      "id": 3,
+      "movie_ID": 1,
+      "name": "Tập 3"
+    },
+    {
+      "id": 4,
+      "movie_ID": 1,
+      "name": "Tập 4"
+    },
+    {
+      "id": 5,
+      "movie_ID": 2,
+      "name": "Tập Full"
+    },
+    {
+      "id": 6,
+      "movie_ID": 3,
+      "name": "Tập Full"
+    }
+  ],
+
+  "episodeLinks": [
+    {
+      "id": "1",
+      "episode_id": "1",
+      "link": "https://www.youtube.com/embed/Bzc8RROQnHk"
+    },
+    {
+      "id": "2",
+      "episode_id": "2",
+      "link": "https://embed.streamc.xyz/embed.php?hash=3a6b5c404709ba466ece3d13725da4fb"
+    },
+    {
+      "id": "3",
+      "episode_id": "3",
+      "link": "https://embed.streamc.xyz/embed.php?hash=328e75b44fb061c425ed366cd3b488e2"
+    },
+    {
+      "id": "4",
+      "episode_id": "4",
+      "link": "https://embed.streamc.xyz/embed.php?hash=4afa6167ce9a1e5a9eead6387461f4f0"
+    },
+    {
+      "id": "5",
+      "episode_id": "5",
+      "link": "https://embed.streamc.xyz/embed.php?hash=e66340c86a1a6efcf383db21a0351c49"
+    },
+    {
+      "id": "6",
+      "episode_id": "6",
+      "link": "https://vip.opstream16.com/share/dea535178c7cc66cd64a57946b006ef2"
+    }
+  ]
+}
