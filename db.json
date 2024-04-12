@@ -39,6 +39,16 @@
       "Content": "Yuko is in love with an old poet who happens to be also a married man. She waits patiently for him and only him, yet she is constantly being lust by others.",
       "views": 0
     }
+    ,
+    {
+      "id": 4,
+      "title": "Nghịch Thiên Kỳ Án 2 (2024)",
+      "image": "https://vutruphim.tv/uploads/video_thumb/24457.jpg",
+      "performer": [" Trần Triển Bằng "," Huỳnh Trí Hiền "," Lâm Hạ Vy "," Phùng Doanh Doanh "," Phương Lực Thân"],
+      "Genre": [" Phim Tâm Lý" , "Phim Hành Động"],
+      "Content": "Hai thanh tra cao cấp Hứa Tuấn Sâm (do Trần Triển Bằng đóng) và Thẩm Vi Lực (do Huỳnh Trí Hiền đóng) cùng làm việc cho Tổ điều tra tội phạm có tổ chức và Tam hiệp hội OCTB hay Điểm O (Organised Crime and Triad Bureau). Bằng trí thông minh và khả năng quan sát nhạy bén, họ phá được nhiều vụ án. Tội phạm nguy hiểm Ngụy Tử Lạc (do Trương Dĩnh Khang đóng) mất trí nhớ và bị giam trong bệnh viện tâm thần. Trước khi bị bắt, Lạc chuyển ra nước ngoài một số tiền lớn, không lâu sau có người thần bí tấn công khủng bố. Tuấn Sâm và Vi Lực phá được án nhờ sự giúp sức của giáo sư Đường Quán Phong (do Phương Lực Thân đóng), nhưng lại phát hiện đằng sau Tử Lạc ẩn chứa âm mưu lớn hơn. Bên cạnh đó, họ còn gặp những vụ án hóc búa như: lính cận vệ đánh thuê, xe ô tô bị gây nhiễu hệ thống lái, sóng gió Hồng Thắng xã, nhà trống chứa bạch cốt, kẻ trọng phạm vượt ngục..",
+      "views": 0
+    }
   ],
   "episode": [
     {
@@ -70,7 +80,17 @@
       "id": 6,
       "movie_ID": 3,
       "name": "Tập Full"
+    },{
+      "id": 7,
+      "movie_ID": 4,
+      "name": "Tập 1"
     }
+    ,{
+      "id": 8,
+      "movie_ID": 4,
+      "name": "Tập 2"
+    }
+
   ],
 
   "episodeLinks": [
@@ -103,6 +123,17 @@
       "id": "6",
       "episode_id": "6",
       "link": "https://vip.opstream16.com/share/dea535178c7cc66cd64a57946b006ef2"
+    },
+    {
+      "id": "7",
+      "episode_id": "7",
+      "link": "https://embed.streamc.xyz/embed.php?hash=7a7c255b4dda2c3a0ae12990db218719"
+    }
+    ,
+    {
+      "id": "8",
+      "episode_id": "8",
+      "link": "https://embed.streamc.xyz/embed.php?hash=2631900a77fb4d21c9e07fa381de0c51"
     }
   ]
 }

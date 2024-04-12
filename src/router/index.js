@@ -39,7 +39,22 @@ const router = createRouter({
       path:"/Play-Movie/:id",
       name:"MoviePlay",
       component:()=>import("../pages/Views/PlayMovie.vue")
+    },{
+      path:"/loginPage",
+      name:"loginPage",
+      component:()=>import("../pages/Views/loginPage.vue")
     }
+    ,{
+      path:"/signPage",
+      name:"signPage",
+      component:()=>import("../pages/Views/SignPage.vue")
+    }
+    ,{
+      path:"/request/:search",
+      name:"searchPage",
+      component:()=>import("../pages/Views/searchPage.vue")
+    }
+
 
 
   ],

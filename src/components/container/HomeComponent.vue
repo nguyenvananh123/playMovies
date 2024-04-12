@@ -14,7 +14,7 @@
         class="h-full w-full object-cover object-center group-hover:opacity-75"
       />
     </div>
-    <h3 class="mt-4 text-your px-2 text-gray-700">{{ movie.title }}</h3>
+    <h3 class="mt-4 text-your font-semibold px-2 text-gray-700">{{ movie.title }}</h3>
   </div>
 </template>
 <script setup>

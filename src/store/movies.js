@@ -21,7 +21,5 @@ export const useMoviesStore = defineStore("movies", {
       const movie = await getMovieDetail(id)
       return movie
     },
-
- 
   },
 });
