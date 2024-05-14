@@ -32,6 +32,5 @@ let movies = computed({
 
 onMounted(async () => {
   movies.value = await ListMovieStores.fetchMovies();
-
 });
 </script>

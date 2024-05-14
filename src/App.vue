@@ -1,13 +1,10 @@
 <template>
-  <div>
-    <headerComponents />
-    <div>
-      <router-view></router-view>
-    </div>
-    <footerComponents />
-  </div>
+  <component :is="route.meta.layout || 'div'">
+    <router-view />
+  </component>
 </template>
 <script setup>
-import headerComponents from "./components/layout/HeaderComponents.vue";
-import footerComponents from "./components/layout/footerComponents.vue";
+import { useRoute } from "vue-router";
+
+const route = useRoute();
 </script>

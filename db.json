@@ -1,139 +1,142 @@
 {
   "Movies": [
     {
-      "id": 1,
-      "title": "Tài Phiệt và Cảnh Sát (2024)",
-      "image": "https://vutruphim.tv/uploads/video_thumb/21386.jpg",
-      "performer": [
-        " Ahn Bo-hyun",
-        " Park Ji Hyun ",
-        "Kang Sang-jun",
-        "Kim Shin-bi",
-        "Lee Na-eun"
-      ],
-      "Genre": ["Tội phạm và Cảnh Sát", "Tài Phiệt", "Hành Động", "Phim Bộ"],
-      "Content": "Bộ phim xoay quanh anh chàng Jin Yi Soo, một người được coi là tầng lớp thìa vàng của xã hội Hàn Quốc hiện nay. Cuộc sống của anh vốn đang bình yên nhưng bỗng dưng vướng vào một vụ án, từ đó đã thay đổi con người anh ta và đưa đẩy sang một lối rẽ khác. Yi Soo đã tham gia một đội điều tra tợi sở cảnh sát và chuyên săn bắt cướp. anh ta sử dụng các mối quan hệ và sự giàu có để làm lợi thế cho mình và tuân theo sự chỉ huy của một vị thám tử tận tâm tên là Lee Kang Hyun.",
-      "views": 0
-    },
-    {
-      "id": 2,
-      "title": "Con Rối Quỷ Ám (2024)",
-      "image": "https://vutruphim.tv/uploads/video_thumb/24350.jpg",
-      "performer": [
-        "Aisling Franciosi",
-        "Stella Gonet",
-        "Tom York",
-        "Therica WilsonRead",
-        "Bridgitta Roy"
-      ],
-      "Genre": ["Kinh Dị", "Phim Ma", "Hành Động", "Phim Lẻ"],
-      "Content": "Con Rối Quỷ Ám Stopmotion 2023 là một phim kinh dị tâm lý của Anh, do Robert Morgan đạo diễn, với sự tham gia của Aisling Franciosi trong vai Ella Blake, một nhà làm phim hoạt hình stop-motion. Phim khám phá sự điên loạn của Ella khi cô làm việc trên dự án phim, kết hợp giữa hành động trực tiếp và hoạt hình. Nội dung phim đề cập đến các chủ đề về sự sáng tạo, ám ảnh và ranh giới mong manh giữa thực tại và ảo giác. Phim nhận được phản hồi tích cực từ giới phê bình về cách kể chuyện và hiệu ứng hình ảnh, đồng thời giành được giải thưởng tại Fantastic Fest và Sitges Film Festival.",
-      "views": 0
-    },
-    {
-      "id": 3,
-      "title": "Thư Tình Già (1981)",
-      "image": "https://vutruphim.tv/uploads/video_thumb/23607.jpg",
-      "performer": ["Katsuo Nakamura", " Keiko Takahashi", "Kaga Mariko"],
-      "Genre": ["Phim Tình Cảm", "Phim Lẻ"],
-      "Content": "Yuko is in love with an old poet who happens to be also a married man. She waits patiently for him and only him, yet she is constantly being lust by others.",
+      "id": "1cd3",
+      "title": "ádasd",
+      "image": "https://lh3.googleusercontent.com/d/1qlXqEh9gsTraktoNXdN2_PMTSN3UkHiu",
+      "performer": "ádasd",
+      "Year": "2001-01-31",
+      "genge_name": "Phim Tình Cảm",
+      "movie_type": "Phim bộ",
+      "content": "1",
       "views": 0
     }
-    ,
+  ],
+  "genge": [
     {
-      "id": 4,
-      "title": "Nghịch Thiên Kỳ Án 2 (2024)",
-      "image": "https://vutruphim.tv/uploads/video_thumb/24457.jpg",
-      "performer": [" Trần Triển Bằng "," Huỳnh Trí Hiền "," Lâm Hạ Vy "," Phùng Doanh Doanh "," Phương Lực Thân"],
-      "Genre": [" Phim Tâm Lý" , "Phim Hành Động"],
-      "Content": "Hai thanh tra cao cấp Hứa Tuấn Sâm (do Trần Triển Bằng đóng) và Thẩm Vi Lực (do Huỳnh Trí Hiền đóng) cùng làm việc cho Tổ điều tra tội phạm có tổ chức và Tam hiệp hội OCTB hay Điểm O (Organised Crime and Triad Bureau). Bằng trí thông minh và khả năng quan sát nhạy bén, họ phá được nhiều vụ án. Tội phạm nguy hiểm Ngụy Tử Lạc (do Trương Dĩnh Khang đóng) mất trí nhớ và bị giam trong bệnh viện tâm thần. Trước khi bị bắt, Lạc chuyển ra nước ngoài một số tiền lớn, không lâu sau có người thần bí tấn công khủng bố. Tuấn Sâm và Vi Lực phá được án nhờ sự giúp sức của giáo sư Đường Quán Phong (do Phương Lực Thân đóng), nhưng lại phát hiện đằng sau Tử Lạc ẩn chứa âm mưu lớn hơn. Bên cạnh đó, họ còn gặp những vụ án hóc búa như: lính cận vệ đánh thuê, xe ô tô bị gây nhiễu hệ thống lái, sóng gió Hồng Thắng xã, nhà trống chứa bạch cốt, kẻ trọng phạm vượt ngục..",
-      "views": 0
+      "id": "1",
+      "name": "Phim Hành Động"
+    },
+    {
+      "id": "2",
+      "name": "Phim Hình Sự"
+    },
+    {
+      "id": "3",
+      "name": "Phim Tình Cảm"
+    },
+    {
+      "id": "4",
+      "name": "Phim Ma"
     }
   ],
   "episode": [
     {
-      "id": 1,
-      "movie_ID": 1,
-      "name": "Tập 1"
+      "id": "2d40",
+      "movie_ID": "8e6b",
+      "episode": [
+        {
+          "name": "1",
+          "link": "https://www.youtube.com/embed/t55MU1e1k8"
+        },
+        {
+          "name": "2",
+          "link": "123"
+        },
+        {
+          "name": "3",
+          "link": "123"
+        },
+        {
+          "name": "4",
+          "link": "123"
+        },
+        {
+          "name": "5",
+          "link": "1"
+        }
+      ]
     },
     {
-      "id": 2,
-      "movie_ID": 1,
-      "name": "Tập 2"
+      "id": "bff6",
+      "movie_ID": "79b1",
+      "episode": [
+        {
+          "name": "1",
+          "link": "https://www.youtube.com/embed/WBvPbPtakIU"
+        },
+        {
+          "name": "2",
+          "link": "123"
+        },
+        {
+          "name": "3",
+          "link": "1234"
+        }
+      ]
     },
     {
-      "id": 3,
-      "movie_ID": 1,
-      "name": "Tập 3"
+      "id": "efa4",
+      "movie_ID": "b102",
+      "episode": [
+        {
+          "name": "1",
+          "link": "1"
+        }
+      ]
     },
     {
-      "id": 4,
-      "movie_ID": 1,
-      "name": "Tập 4"
-    },
-    {
-      "id": 5,
-      "movie_ID": 2,
-      "name": "Tập Full"
-    },
-    {
-      "id": 6,
-      "movie_ID": 3,
-      "name": "Tập Full"
-    },{
-      "id": 7,
-      "movie_ID": 4,
-      "name": "Tập 1"
+      "id": "2cf4",
+      "movie_ID": "1cd3",
+      "episode": [
+        {
+          "name": "1",
+          "link": "1"
+        }
+      ]
     }
-    ,{
-      "id": 8,
-      "movie_ID": 4,
-      "name": "Tập 2"
-    }
-
   ],
-
-  "episodeLinks": [
+  "users": [
     {
       "id": "1",
-      "episode_id": "1",
-      "link": "https://www.youtube.com/embed/Bzc8RROQnHk"
-    },
-    {
-      "id": "2",
-      "episode_id": "2",
-      "link": "https://embed.streamc.xyz/embed.php?hash=3a6b5c404709ba466ece3d13725da4fb"
-    },
-    {
-      "id": "3",
-      "episode_id": "3",
-      "link": "https://embed.streamc.xyz/embed.php?hash=328e75b44fb061c425ed366cd3b488e2"
-    },
-    {
-      "id": "4",
-      "episode_id": "4",
-      "link": "https://embed.streamc.xyz/embed.php?hash=4afa6167ce9a1e5a9eead6387461f4f0"
-    },
-    {
-      "id": "5",
-      "episode_id": "5",
-      "link": "https://embed.streamc.xyz/embed.php?hash=e66340c86a1a6efcf383db21a0351c49"
-    },
-    {
-      "id": "6",
-      "episode_id": "6",
-      "link": "https://vip.opstream16.com/share/dea535178c7cc66cd64a57946b006ef2"
-    },
-    {
-      "id": "7",
-      "episode_id": "7",
-      "link": "https://embed.streamc.xyz/embed.php?hash=7a7c255b4dda2c3a0ae12990db218719"
+      "lastName": "Nguyễn",
+      "userName": "Anh",
+      "user": "Anhnv3101",
+      "password": "Anhnv3101"
     }
-    ,
+  ],
+  "nationality": [
     {
-      "id": "8",
-      "episode_id": "8",
-      "link": "https://embed.streamc.xyz/embed.php?hash=2631900a77fb4d21c9e07fa381de0c51"
+      "nation": "Ấn Độ",
+      "id": "437a"
+    },
+    {
+      "nation": "Phim Mỹ",
+      "id": "ef3b"
+    },
+    {
+      "nation": "Hàn Quốc",
+      "id": "110e"
+    },
+    {
+      "nation": "Trung Quốc",
+      "id": "d3f0"
+    },
+    {
+      "nation": "Úc",
+      "id": "f719"
+    },
+    {
+      "nation": "Nhật Bản",
+      "id": "6a9c"
+    },
+    {
+      "nation": "Pháp",
+      "id": "42f9"
+    },
+    {
+      "nation": "Thái Land",
+      "id": "b387"
     }
   ]
 }

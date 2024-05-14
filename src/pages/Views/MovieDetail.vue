@@ -21,13 +21,13 @@
         <p
           class="xl:pr-48 text-base lg:leading-tight leading-normal text-gray-600 dark:text-gray-300 mt-7"
         >
-          <strong>Diễn Viên :</strong>{{ movie.performer.join(' , ')}}
+          <strong>Diễn Viên :</strong>{{ movie.performer}}
         </p>
         <p class="text-base leading-4 mt-7 text-gray-600 dark:text-gray-300">
-          <strong>Thể Loại :</strong> {{ movie.Genre.join(' , ')}}
+          <strong>Năm ra Mắt:</strong> {{movie.Year}}
         </p>
         <p class="text-base leading-4 mt-4 text-gray-600 dark:text-gray-300">
-          <strong>Nội Dung :</strong> {{ movie.Content }}
+          <strong>Nội Dung :</strong> {{ movie.content }}
         </p>
         <p
           class="text-base mb-4 leading-4 mt-4 text-gray-600 dark:text-gray-300"
@@ -61,8 +61,13 @@ const movieDetail = useMoviesStore();
 
 
 
-const playMovie=(id)=>{
+const playMovie= async(id)=>{
   router.push({name:'MoviePlay' , params:{ id: id }})
+  const a  = await movieDetail.fetchMovieDetail(id)
+  const data = {
+    views:a.views+1
+  }
+  await movieDetail.updateMovieView(id , data)
 }
 
 onMounted(async () => {

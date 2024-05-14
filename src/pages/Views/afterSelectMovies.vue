@@ -9,7 +9,7 @@
       >
         <div
           class="group cursor-pointer bg-white px-2 py-1 rounded-md"
-          v-for="movie in listMoviesAfterSearch"
+          v-for="movie in listMoviesAfterSelect"
           :key="movie.id"
         >
           <div
@@ -38,9 +38,10 @@ import { useMoviesStore } from "../../store/movies";
 
 const route = useRoute();
 const router = useRouter();
-const listMoviesAfterSearch = ref();
-const searchValue = ref();
+
+const selectValue = ref();
 const MoviesStore = useMoviesStore();
+const listMoviesAfterSelect = ref();
 
 let movies = computed({
   get() {
@@ -54,22 +55,12 @@ const movieDetails = (id) => {
 };
 
 watchEffect(async () => {
-  searchValue.value = route.params.key;
-  console.log(searchValue.value);
+  selectValue.value = route.params.name;
 
   movies.value = await MoviesStore.fetchMovies();
 
-  listMoviesAfterSearch.value = movies.value.filter((movie) =>
-    movie.title
-      .toLowerCase()
-      .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "")
-      .includes(
-        searchValue.value
-          .toLowerCase()
-          .normalize("NFD")
-          .replace(/[\u0300-\u036f]/g, "")
-      )
+  listMoviesAfterSelect.value = movies.value.filter((movie) =>
+    movie.genge_name.includes(selectValue.value)
   );
 });
 </script>
